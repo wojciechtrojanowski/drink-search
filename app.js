@@ -1,5 +1,4 @@
 const input = document.querySelector('.card__img-input');
-const list = document.querySelector('.list');
 const li = document.querySelectorAll('li');
 let liArray = Array.from(li);
 let text = input.value;
